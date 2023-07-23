@@ -38,9 +38,9 @@ In this approach, the time complexity to minimize the cash flow and show transac
 
 The project will provide the following functionalities:
 
-a) Efficient Debt Settlement: The project efficiently resolves debts among friends, minimizing the total cash flow required for transactions.
-b) Fast Computation: The upgrade in time complexity to O(n log n) will ensure that the cash flow minimization process is performed quickly, even for large numbers of participants.
-c) Scalability and Customization: The code allows for easy customization and accommodates varying numbers of participants, enabling efficient settlement of debts, even for complex cash flows.
+1. Efficient Debt Settlement: The project efficiently resolves debts among friends, minimizing the total cash flow required for transactions.
+2. Fast Computation: The upgrade in time complexity to O(n log n) will ensure that the cash flow minimization process is performed quickly, even for large numbers of participants.
+3. Scalability and Customization: The code allows for easy customization and accommodates varying numbers of participants, enabling efficient settlement of debts, even for complex cash flows.
 
 ## 4. USAGE:
 
